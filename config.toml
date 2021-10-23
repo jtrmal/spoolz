@@ -1,4 +1,4 @@
-baseurl = "www.onlyspoolz.com"
+baseurl = "https://jtrmal.github.io/spoolz/"
 title = "Database of filament spools info"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
