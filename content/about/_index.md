@@ -12,7 +12,7 @@ Setting time aside in these busy times just for sake of contributing something t
 people you don't know is worth applause.
 
 ### tl;dir I know github, don't delay me ##
-Create a pull request to the main branch of the repo https://jtrmal.github.io/spoolz
+Create a pull request to the main branch of the repo https://github.com/jtrmal/spoolz
 Your Pull request should contain two files:
   * jpeg photo of the spool in spoolz-photos/
   * description of the spool in spoolz-text/.  Use one of the existing
