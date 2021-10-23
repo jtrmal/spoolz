@@ -53,15 +53,15 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
-  #[params.social]
+  [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  #email         = "email@example.com"
+  #email         = "yenda#trmal.net"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "https://jtrmal.github.io/spoolz"
   #gitlab        = "full profile url in gitlab"
   #youtube       = "full profile url in youtube"
   #whatsapp      = "wa.me service link"
