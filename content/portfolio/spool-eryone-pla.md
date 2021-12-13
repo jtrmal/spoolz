@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/eryone_pla_matt."
+image = "img/portfolio/eryone_pla_matt.jpg"
 showonlyimage = false
 date="Mon Dec 13 17:01:16 EST 2021"
 title = "Eryone PLA Matte"
