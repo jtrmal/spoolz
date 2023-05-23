@@ -1,8 +1,8 @@
 +++
 draft = false
-image = "img/portfolio/spool_polymaker_polyterra_pla.jpg"
+image = "img/portfolio/spool_polymaker_polyterra_pla.jpeg"
 showonlyimage = false
-date="Mon May 22 17:23:00 EST 2023"
+date="2023-05-23T10:56:22+0200"
 title = "Polymaker PolyTerra PLA"
 +++
 
