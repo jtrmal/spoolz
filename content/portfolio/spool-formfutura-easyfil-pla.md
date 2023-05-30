@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/spool_formfutura_easyfil_pla.jpg"
 showonlyimage = false
-date="Mon May 24 17:23:00 EST 2023"
+date="2023-05-30T09:32:48+0200"
 title = "Formfutura EasyFil PLA"
 +++
 
