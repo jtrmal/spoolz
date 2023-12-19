@@ -8,6 +8,6 @@ title = "ESun PLA+"
 
 * Printing temp: 205-225
 * Bed temp: 0C/60-80C
-* Empty spool weight: 238g
+* Empty spool weight: 242g
 * Advertised filament weight: 1000g
 <!--more-->
