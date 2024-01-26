@@ -24,7 +24,7 @@ Your Pull request should contain two files:
       - add text/info after the characters '+++'
  * that's it!
 
-### I know how to create "Issue" on github##
+### I know how to create "Issue" on github ##
   * please include screenshot of the spool
   * Into the issue text add the following info that is not visible on the picture of the spool
     - filament producer and name
@@ -36,7 +36,7 @@ Your Pull request should contain two files:
     - spool hole diameter (in mm)
     - any interesting/important info
 
-### I know discord##
+### I know discord ##
 Contact user yendaaa on Voron or Armchair Engineering discord. You will be asked to provide the aforementioned info
 so no harm in having it prepared :)
 
