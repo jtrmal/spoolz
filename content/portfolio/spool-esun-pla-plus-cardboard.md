@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/esun_pla_plus_cardboard.jpg"
 showonlyimage = false
-date = "2024-02-12T20:33:50.759243"
+date = "2024-02-12T12:58:50+0100"
 title = "ESun PLA+ (cardboard spool)"
 +++
 
