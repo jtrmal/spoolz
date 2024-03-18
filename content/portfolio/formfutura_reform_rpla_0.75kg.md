@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/formfutura_reform_rpla_1kg.jpg"
+image = "img/portfolio/formfutura_reform_rpla_0.75kg.jpg"
 showonlyimage = false
 date = "2024-03-18T15:00:00Z"
 title = "FormFutura ReForm - rPLA (Cardboard Spool)"
