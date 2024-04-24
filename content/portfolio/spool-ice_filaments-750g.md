@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/spool-ice_filaments-750g.jpg"
 showonlyimage = false
-date="2023-05-23T10:56:22+0200"
+date="2024-04-24T14:28:43+0200"
 title = "ICE Filaments PLA"
 +++
 
