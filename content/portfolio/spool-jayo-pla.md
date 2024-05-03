@@ -10,4 +10,7 @@ title = "Jayo PLA Cardboard spool"
 * Bed temp: 60 C
 * Empty spool weight: 125 g
 * Advertised filament weight: 1100 g
+* Outside Diameter: 195mm
+* Height: 57mm
+* Hole Diameter: 54mm
 <!--more-->
