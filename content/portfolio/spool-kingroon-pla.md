@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spool_aurapol_pla.jpg"
+image = "img/portfolio/spool_kingroon_pla.jpeg"
 showonlyimage = false
 date="2024-08-05T12:34:34+0200"
 title = "Kingroon PLA"
