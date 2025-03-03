@@ -18,3 +18,6 @@ title = "SUNLU PLA + Refillable"
 
 ![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.jpg)
 
+![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-full.jpg)
+
+
