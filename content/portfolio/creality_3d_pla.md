@@ -14,3 +14,6 @@ title = "Creality 3D PLA White"
 -   Height: 65mm
 -   Hole Diameter: 56mm
 <!--more-->
+
+![image](/img/portfolio/creality_3d_pla.jpg)
+

@@ -14,3 +14,6 @@ title = "PETG Prusa Galaxy Black"
 * Height: 68mm
 * Hole Diameter: 51mm
 <!--more-->
+
+![image](/img/portfolio/prusa_petg_blacks.jpg)
+

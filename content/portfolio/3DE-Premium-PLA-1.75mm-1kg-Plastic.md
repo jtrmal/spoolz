@@ -14,3 +14,6 @@ title = "3DE Premium PLA (Plastic Spool)"
 -   Height: 64mm
 -   Hole Diameter: 52.9mm
 <!--more-->
+
+![image](/img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Plastic.jpg)
+

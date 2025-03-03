@@ -14,3 +14,6 @@ title = "Polymaker PolyTerra PLA (Cardboard Spool)"
 -   Height: 67mm
 -   Hole Diameter: 56mm
 <!--more-->
+
+![image](/img/portfolio/polymaker_polyterra_pla_1kg.jpg)
+

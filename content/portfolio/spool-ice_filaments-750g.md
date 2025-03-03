@@ -14,3 +14,6 @@ title = "ICE Filaments PLA"
 * Height: 56 mm
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/spool-ice_filaments-750g.jpg)
+

@@ -13,3 +13,6 @@ title = "bq PLA"
 * Height: 76mm
 * Hole Diameter: 44mm
 <!--more-->
+
+![image](/img/portfolio/bq_pla.jpg)
+

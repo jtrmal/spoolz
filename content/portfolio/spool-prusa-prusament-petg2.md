@@ -14,3 +14,6 @@ title = "Prusa Prusament PETG"
 * Height: 68 mm
 * Hole Diameter: 51 mm
 <!--more-->
+
+![image](/img/portfolio/spool_prusa_prusament_petg.jpg)
+

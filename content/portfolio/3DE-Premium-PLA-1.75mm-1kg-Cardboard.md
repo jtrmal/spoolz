@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Cardboard.jpg"
 showonlyimage = false
-date = "2024-04-30T21:15:00Z"
+date = "2025-03-03T09:31:55+0100"
 title = "3DE Premium PLA (Cardboard Spool)"
 +++
 
@@ -14,3 +14,5 @@ title = "3DE Premium PLA (Cardboard Spool)"
 -   Height: 63mm
 -   Hole Diameter: 52.5mm
 <!--more-->
+
+![image](/img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Cardboard.jpg)

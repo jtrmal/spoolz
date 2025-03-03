@@ -13,3 +13,7 @@ title = "Stronghero 3D PLA"
 -   Outside Diameter: 199mm
 -   Height: 60mm
 -   Hole Diameter: 75mm
+<!--more-->
+
+![image](/img/portfolio/Stronghero_3D_PLA_1_75mm_1kg.jpg)
+

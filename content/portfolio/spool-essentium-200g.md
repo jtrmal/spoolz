@@ -12,3 +12,6 @@ title = "Essentium 200g spool"
 * Height: 44.45
 * Hole Diameter: 52.07mm
 <!--more-->
+
+![image](/img/portfolio/essentium_spool_scheme.png)
+

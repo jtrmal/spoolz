@@ -14,3 +14,6 @@ title = "Atomic Filaments Rose Gold PLA"
 * Height: 73 mm
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/atomic_filament_pla.jpg)
+

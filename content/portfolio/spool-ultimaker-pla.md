@@ -14,3 +14,6 @@ title = "Ultimaker PLA"
 * Height: 53 mm
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/spool_ultimaker_pla.jpg)
+

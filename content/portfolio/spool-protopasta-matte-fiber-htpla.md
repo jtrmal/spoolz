@@ -15,3 +15,6 @@ title = "Protopasta Matte Fiber HTPLA"
 * Hole Diameter: 52 mm
 * Recycleable Cardboard
 <!--more-->
+
+![image](/img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.jpg)
+

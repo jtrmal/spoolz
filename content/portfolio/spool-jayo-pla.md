@@ -14,3 +14,6 @@ title = "Jayo PLA Cardboard spool"
 * Height: 57mm
 * Hole Diameter: 54mm
 <!--more-->
+
+![image](/img/portfolio/spool_jayo_cardboard_pla.jpg)
+

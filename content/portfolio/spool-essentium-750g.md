@@ -12,3 +12,6 @@ title = "Essentium 750g spool"
 * Height: 54.61 mm
 * Hole Diameter: 52.07 mm
 <!--more-->
+
+![image](/img/portfolio/essentium_spool_scheme.png)
+

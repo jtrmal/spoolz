@@ -14,3 +14,6 @@ title = "Elegoo PLA"
 * Height: 64 mm
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/spool_elegoo_pla.jpg)
+

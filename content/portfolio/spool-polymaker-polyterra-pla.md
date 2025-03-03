@@ -14,3 +14,6 @@ title = "Polymaker PolyTerra PLA"
 * Height: 64 mm
 * Hole Diameter: 55 mm
 <!--more-->
+
+![image](/img/portfolio/spool_polymaker_polyterra_pla.jpeg)
+

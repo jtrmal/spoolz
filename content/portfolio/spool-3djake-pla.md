@@ -14,3 +14,6 @@ title = "3DJake ecoPLA spool"
 * Height: 75.5mm
 * Hole Diameter: 52.25 mm
 <!--more-->
+
+![image](/img/portfolio/3djake_pla_plastic_spool.jpg)
+

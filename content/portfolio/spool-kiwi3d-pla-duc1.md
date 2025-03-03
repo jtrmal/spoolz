@@ -14,3 +14,6 @@ title = "Kiwi3D PLA Like-Marble"
 * Height: 62mm
 * Hole Diameter: 60mm
 <!--more-->
+
+![image](/img/portfolio/kiwi3d_pla_likemarble_duc1.jpg)
+

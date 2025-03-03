@@ -14,7 +14,7 @@ title = "SUNLU PLA + Refillable"
 - Height: 50mm
 - Outer diameter: 195mm
 - Hole diameter: 58mm
-
 <!--more-->
-![image](img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.jpg)
+
+![image](/img/portfolio/Spool-Sunlu_PLA+_New_refillable-empty.jpg)
 

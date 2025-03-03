@@ -14,3 +14,6 @@ title = "3DXTECH ASA"
 * Height: 74 mm
 * Hole Diameter: 52 mm
 <!--more-->
+
+![image](/img/portfolio/3dxtech_asa_1kg.jpg)
+

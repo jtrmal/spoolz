@@ -14,3 +14,6 @@ title = "Amazon Basic PLA"
 * Height: 75 mm
 * Hole Diameter: 54 mm
 <!--more-->
+
+![image](/img/portfolio/amazon_basic_pla.jpg)
+

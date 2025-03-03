@@ -14,3 +14,6 @@ title = "Wanhao PLA Yellow"
 * Height: 57mm
 * Hole Diameter: 50mm
 <!--more-->
+
+![image](/img/portfolio/wanhao_pla_yellow_duc1.jpg)
+

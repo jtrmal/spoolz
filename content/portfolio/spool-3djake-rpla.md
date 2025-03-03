@@ -14,3 +14,6 @@ title = "3DJake rPLA Cardboard spool"
 * Height: 72mm
 * Hole Diameter: 56 mm
 <!--more-->
+
+![image](/img/portfolio/3djake_rpla_cardboard_spool.jpg)
+

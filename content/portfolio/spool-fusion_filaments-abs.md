@@ -14,3 +14,6 @@ title = "Fusion Filaments Plutonic Purple ABS 2.0"
 * Height: 73/56 mm (inner hole has reduced height)
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/fusion_filaments_spool.jpg)
+

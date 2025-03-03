@@ -14,3 +14,6 @@ title = "PrintBed PLA"
 * Height: 64 mm
 * Hole Diameter: 57 mm
 <!--more-->
+
+![image](/img/portfolio/spool_printbed.jpg)
+

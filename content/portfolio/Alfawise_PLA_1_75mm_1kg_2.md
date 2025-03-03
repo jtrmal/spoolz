@@ -14,3 +14,6 @@ title = "Alfawise PLA (Plastic Spool 2)"
 -   Height: 63mm
 -   Hole Diameter: 57.2mm
 <!--more-->
+
+![image](/img/portfolio/Alfawise_PLA_1_75mm_1kg_2.jpg)
+

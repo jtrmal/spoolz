@@ -14,3 +14,6 @@ title = "Eryone PLA Matte"
 * Height: 64/52 mm (inner hole has reduced height)
 * Hole Diameter: 55 mm
 <!--more-->
+
+![image](/img/portfolio/eryone_pla_matt.jpg)
+

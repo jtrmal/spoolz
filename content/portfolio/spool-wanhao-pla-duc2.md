@@ -14,3 +14,6 @@ title = "Wanhao PLA White"
 * Height: 60mm
 * Hole Diameter: 50mm
 <!--more-->
+
+![image](/img/portfolio/wanhao_pla_white_duc1.jpg)
+

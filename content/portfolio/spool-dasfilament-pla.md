@@ -14,3 +14,6 @@ title = "DasFilament PLA"
 * Height: 53 mm
 * Hole Diameter: 52 mm
 <!--more-->
+
+![image](/img/portfolio/spool_dasfilament_pla.jpg)
+

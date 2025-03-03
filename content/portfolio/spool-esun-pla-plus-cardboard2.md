@@ -13,3 +13,6 @@ title = "ESun PLA+ (cardboard spool)"
 * Height: 62mm
 * Hole Diameter: 54mm
 <!--more-->
+
+![image](/img/portfolio/esun_pla_plus_cardboard2.jpg)
+

@@ -12,3 +12,6 @@ title = "Essentium 2.5kg spool"
 * Height: 103.886 mm 
 * Hole Diameter: 52.07 mm
 <!--more-->
+
+![image](/img/portfolio/essentium_spool_scheme.png)
+

@@ -13,3 +13,6 @@ title = "Filament PM ASA"
 * Height: 90mm
 * Hole Diameter: 50mm
 <!--more-->
+
+![image](/img/portfolio/filament_pm-asa.jpg)
+

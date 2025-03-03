@@ -14,3 +14,6 @@ title = "FormFutura ReForm - rPLA (Cardboard Spool)"
 -   Height: 52mm
 -   Hole Diameter: 56mm
 <!--more-->
+
+![image](/img/portfolio/formfutura_reform_rpla_0.75kg.jpg)
+

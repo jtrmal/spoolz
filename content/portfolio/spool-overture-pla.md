@@ -14,3 +14,6 @@ title = "Overture PLA"
 * Height: 65 mm
 * Hole Diameter: 55 mm
 <!--more-->
+
+![image](/img/portfolio/spool_overture_pla.jpg)
+

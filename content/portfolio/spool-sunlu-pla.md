@@ -14,3 +14,6 @@ title = "SUNLU PLA"
 * Printing temp: 200-210C
 * Bed temp: 50-65C
 <!--more-->
+
+![image](/img/portfolio/spool_sunlu_pla.jpg)
+

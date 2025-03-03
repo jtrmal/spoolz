@@ -14,3 +14,6 @@ title = "Aurapol PLA"
 * Height: 70 mm
 * Hole Diameter: 55 mm
 <!--more-->
+
+![image](/img/portfolio/spool_aurapol_pla.jpeg)
+

@@ -14,3 +14,6 @@ title = "colorFabb nGen"
 -   Height: 100mm
 -   Hole Diameter: 52mm
 <!--more-->
+
+![image](/img/portfolio/colorfabb_ngen_2.2kg.jpg)
+

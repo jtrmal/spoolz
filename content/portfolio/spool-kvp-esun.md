@@ -10,3 +10,5 @@ ESun openable spool upcycled by KVP to serve as their refillable Koil spool
 * Advertised filament weight: 1000g
 <!--more-->
 
+![image](/img/portfolio/kvp_koil_adapted_esun.jpg)
+

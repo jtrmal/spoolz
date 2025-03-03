@@ -14,3 +14,6 @@ title = "KVP Stellar Black ABS"
 * Height: 72/55 mm (inner hole has reduced height)
 * Hole Diameter: 53 mm
 <!--more-->
+
+![image](/img/portfolio/kvp_spool.jpg)
+

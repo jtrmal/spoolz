@@ -14,3 +14,6 @@ title = "Kingroon PLA"
 * Height: 85 mm
 * Hole Diameter: 75 mm
 <!--more-->
+
+![image](/img/portfolio/spool_kingroon_pla.jpeg)
+

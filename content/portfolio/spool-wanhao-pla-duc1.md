@@ -14,3 +14,6 @@ title = "Wanhao PLA Slate-Grey"
 * Height: 60mm
 * Hole Diameter: 50mm
 <!--more-->
+
+![image](/img/portfolio/wanhao_pla_grey_duc1.jpg)
+

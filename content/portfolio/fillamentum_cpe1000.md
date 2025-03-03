@@ -14,3 +14,6 @@ title = "Fillamentum CPE HG100"
 -   Height: 54mm
 -   Hole Diameter: 53mm
 <!--more-->
+
+![image](/img/portfolio/fillamentum_cpe1000.jpg)
+

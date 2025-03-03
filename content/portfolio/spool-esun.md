@@ -11,3 +11,6 @@ title = "ESun PLA+"
 * Empty spool weight: 242g
 * Advertised filament weight: 1000g
 <!--more-->
+
+![image](/img/portfolio/esun_pla_plus.jpg)
+

@@ -14,3 +14,6 @@ title = "Overture Matte PLA"
 * Height: 67 mm
 * Hole Diameter: 56 mm
 <!--more-->
+
+![image](/img/portfolio/spool_overture_matte_pla.jpg)
+
