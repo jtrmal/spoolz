@@ -18,3 +18,5 @@ title = "fiberlogy rounded spool (old) easy pla"
 
 ![image](/img/portfolio/spool_fiberlogy_rounded.jpg)
 
+![image](/img/portfolio/schema_fiberlogy_rounded.png)
+
