@@ -6,12 +6,15 @@
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
+                        {{ $img := resources.Get .Params.image }}
+                        {{ $optimized := $img.Fit "1100x1100 webp picture q60" }}
                         {{ if eq .Params.showonlyimage true }}
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
                         {{ else }}
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
-                            <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                            <img src="{{ $optimized.RelPermalink }}" width="{{ $optimized.Width }}" height="{{ $optimized.Height }}"
+                              loading="lazy" alt="" class="img-responsive">
                         </a>
                       {{ end }}
                       {{ if eq .Params.showonlyimage true }}
