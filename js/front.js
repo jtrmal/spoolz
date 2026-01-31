@@ -6,6 +6,7 @@ $(function () {
     utils();
     highlightCurrentPage();
     makeImagesResponsive();
+    spoolTypeFilter();
 });
 function highlightCurrentPage() {
   $("a[href='" + location.href + "']").parent().addClass("active");
@@ -84,6 +85,63 @@ function utils() {
         var parts = full_url.split("#");
         var trgt = parts[1];
         $('body').scrollTo($('#' + trgt), 800, {offset: -80});
+    });
+}
+/* =========================================
+ *  spool type filter
+ *  =======================================*/
+function spoolTypeFilter() {
+    var $container = $('#spool-type-filter-container');
+    if ($container.length === 0) {
+        return;
+    }
+    var currentFilter = '';
+
+    function setActiveFilter(filterValue, updateUrl = false) {
+        if (filterValue === currentFilter) {
+            return;
+        }
+
+        var url = new URL(window.location);
+        $options.closest('li').removeClass('active');
+        $options.filter(`[href="#${filterValue}"]`).parent().addClass('active');
+
+        if (filterValue) {
+            $('[data-spool-type]').hide().removeClass('masonry-item');
+            $(`[data-spool-type="${filterValue}"]`).show().addClass('masonry-item');
+            url.searchParams.set('spool_type', filterValue);
+        } else {
+            $('[data-spool-type]').show().addClass('masonry-item');
+            url.searchParams.delete('spool_type');
+        }
+
+        $('.grid').masonry('reloadItems').masonry('layout');
+        if (updateUrl) {
+            window.history.pushState({}, '', url);
+        }
+
+        currentFilter = filterValue;
+    }
+
+    function updateFilterFromUrl() {
+        var url = new URL(window.location);
+        setActiveFilter(url.searchParams.get('spool_type') || '');
+    }
+
+    // Update filter on options click
+    var $options = $container.find('a');
+    $options.click(function (e) {
+        e.preventDefault();
+        var selectedType = $(this).attr('href').replace('#', '');
+        setActiveFilter(selectedType, true);
+    });
+
+    // Update filter on page load
+    updateFilterFromUrl();
+
+    // Update filter on history change
+    window.addEventListener('popstate', function () {
+        updateFilterFromUrl();
     });
 }
 /* product detail gallery */

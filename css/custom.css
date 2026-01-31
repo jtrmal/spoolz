@@ -1,1 +1,12 @@
 /* your styles go here */
+
+#spool-type-filter-container a {
+    display: inline-flex;
+    align-items: center;
+    gap: 1rem;
+    height: 52px;
+}
+
+.box-masonry-description ul {
+    padding-left: 20px;
+}
