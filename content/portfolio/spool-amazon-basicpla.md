@@ -4,6 +4,8 @@ image = "img/portfolio/amazon_basic_pla.jpg"
 showonlyimage = false
 date="2023-05-10T09:36:35+0200"
 title = "Amazon Basic PLA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 190 C – 220 C

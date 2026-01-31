@@ -4,6 +4,8 @@ image = "img/portfolio/spool_fiberlogy_rounded.jpg"
 showonlyimage = false
 date="Mon Feb 24 20:27:00 EST 2025"
 title = "fiberlogy rounded spool (old) easy pla"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 200 C – 230 C

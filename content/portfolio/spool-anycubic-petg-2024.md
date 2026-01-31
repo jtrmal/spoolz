@@ -3,7 +3,9 @@ draft = false
 image = "img/portfolio/spool-anycubic-petg-2024.jpg"
 showonlyimage = false
 date = "2025-03-03T10:15:49+0100"
-title = "Anycubic PETG "
+title = "Anycubic PETG"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 - Printing temp: 230-240C

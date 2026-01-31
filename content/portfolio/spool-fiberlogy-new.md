@@ -4,6 +4,8 @@ image = "img/portfolio/spool_fiberlogy_new.jpg"
 showonlyimage = false
 date = "2025-03-03T14:17:28+0100"
 title = "Fiberlogy ASA"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 255-270C

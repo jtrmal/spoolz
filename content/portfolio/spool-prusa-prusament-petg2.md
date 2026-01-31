@@ -4,6 +4,8 @@ image = "img/portfolio/spool_prusa_prusament_petg.jpg"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Prusa Prusament PETG"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 240 C – 260 C

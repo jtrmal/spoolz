@@ -4,6 +4,8 @@ image = "img/portfolio/creality_3d_pla.jpg"
 showonlyimage = false
 date = "2024-01-05T15:30:00Z"
 title = "Creality 3D PLA White"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 -   Printing temp: 195-220C

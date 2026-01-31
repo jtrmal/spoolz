@@ -4,6 +4,8 @@ image = "img/portfolio/atomic_filament_pla.jpg"
 showonlyimage = false
 date="Sat Nov  6 13:42:42 EDT 2021"
 title = "Atomic Filaments Rose Gold PLA"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 190/230C

@@ -4,6 +4,8 @@ image = "img/portfolio/protopasta_htpla_spool_matte_fiber_1.75mm_500g.jpg"
 showonlyimage = false
 date="2023-07-18T18:00:00+0400"
 title = "Protopasta Matte Fiber HTPLA"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 195 C – 225 C

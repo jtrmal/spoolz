@@ -4,6 +4,8 @@ image = "img/portfolio/spool_formfutura_easyfil_pla.jpg"
 showonlyimage = false
 date="2023-05-30T09:32:48+0200"
 title = "Formfutura EasyFil PLA"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 180 C – 220 C

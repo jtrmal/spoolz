@@ -1,9 +1,25 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
+    <div class="row">
+      <div class="col-xs-12">
+        <div id="spool-type-filter-container">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <ul class="nav nav-pills">
+                <li role="presentation" class="active"><a href="#">Show All</a></li>
+                <li role="presentation"><a href="#cardboard" title="Show Cardboard Spools"><img width="32" src="{{ "icons/spool-type-cardboard.svg" | absURL }}" role="presentation"> <span class="hidden-xs">Cardboard</span></a></li>
+                <li role="presentation"><a href="#dark_plastic" title="Show Dark Plastic Spools"><img width="32" src="{{ "icons/spool-type-dark_plastic.svg" | absURL }}" role="presentation"> <span class="hidden-xs">Dark Plastic</span></a></li>
+                <li role="presentation"><a href="#light_plastic" title="Show Light/Clear Plastic Spools"><img width="32" src="{{ "icons/spool-type-light_plastic.svg" | absURL }}" role="presentation"> <span class="hidden-xs">Light/Clear Plastic</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="grid">
         <div class="row">
           {{ range .Data.Pages }}
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+              <div data-spool-type="{{ if .Params.spool_type }}{{ .Params.spool_type }}{{ else }}{{ end }}" class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ $img := resources.Get .Params.image }}

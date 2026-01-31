@@ -4,6 +4,8 @@ image = "img/portfolio/eryone_pla_matt.jpg"
 showonlyimage = false
 date="Mon Dec 13 17:01:16 EST 2021"
 title = "Eryone PLA Matte"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 190 C – 220 C

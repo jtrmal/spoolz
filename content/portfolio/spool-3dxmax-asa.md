@@ -4,6 +4,8 @@ image = "img/portfolio/3dxtech_asa_1kg.jpg"
 showonlyimage = false
 date="2023-07-23T18:00:00+0400"
 title = "3DXTECH ASA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 235 C – 255 C

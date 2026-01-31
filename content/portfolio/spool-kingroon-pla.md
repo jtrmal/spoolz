@@ -4,6 +4,8 @@ image = "img/portfolio/spool_kingroon_pla.jpeg"
 showonlyimage = false
 date="2024-08-05T12:34:34+0200"
 title = "Kingroon PLA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 190 C – 230 C

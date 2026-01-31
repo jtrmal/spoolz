@@ -4,6 +4,8 @@ image = "img/portfolio/kvp_spool.jpg"
 showonlyimage = false
 date="Fri Nov 26 12:12:09 EST 2021"
 title = "KVP Stellar Black ABS"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 230 C – 250 C

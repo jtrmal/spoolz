@@ -4,6 +4,8 @@ image = "img/portfolio/spool_polymaker_polyterra_pla.jpeg"
 showonlyimage = false
 date="2023-05-23T10:56:22+0200"
 title = "Polymaker PolyTerra PLA"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 190 C – 230 C

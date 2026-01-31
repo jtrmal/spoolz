@@ -4,6 +4,8 @@ image = "img/portfolio/esun_pla_plus.jpg"
 showonlyimage = false
 date = "Sat Oct 23 12:32:27 EDT 2021"
 title = "ESun PLA+"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 205-225

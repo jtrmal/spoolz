@@ -4,6 +4,8 @@ image = "img/portfolio/spool_aurapol_pla.jpeg"
 showonlyimage = false
 date="2024-08-05T12:32:40+0200"
 title = "Aurapol PLA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 210 C – 230 C

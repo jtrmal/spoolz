@@ -4,6 +4,8 @@ image = "img/portfolio/spool_elegoo_pla.jpg"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "Elegoo PLA"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 190 C – 220 C

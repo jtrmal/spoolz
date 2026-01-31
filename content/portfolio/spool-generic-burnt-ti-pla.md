@@ -4,6 +4,8 @@ image = "img/portfolio/spool_generic_burnt_ti_pla.jpg"
 showonlyimage = false
 date="2025-08-07"
 title = "Generic Burnt Titanium PLA 1KG"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 190 C – 220 C

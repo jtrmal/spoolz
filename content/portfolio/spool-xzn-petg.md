@@ -4,6 +4,8 @@ image = "img/portfolio/spool_xzn_petg.jpg"
 showonlyimage = false
 date="2025-08-07"
 title = "XZN PETG 1KG"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 220 C – 250 C

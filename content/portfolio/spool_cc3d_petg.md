@@ -4,6 +4,8 @@ image = "img/portfolio/spool_cc3d_petg.jpg"
 showonlyimage = false
 date = "2025-03-03T10:29:59+0100"
 title = "CC3D PETG"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing Temp: 230-260C
