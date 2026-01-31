@@ -4,6 +4,8 @@ image = "img/portfolio/kiwi3d_pla_likemarble_duc1.jpg"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Kiwi3D PLA Like-Marble"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 190-220C

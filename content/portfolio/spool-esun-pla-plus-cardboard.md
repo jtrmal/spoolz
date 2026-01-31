@@ -4,6 +4,8 @@ image = "img/portfolio/esun_pla_plus_cardboard.jpg"
 showonlyimage = false
 date = "2024-02-12T12:58:50+0100"
 title = "ESun PLA+ (cardboard spool)"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 210-230C

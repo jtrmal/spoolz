@@ -4,6 +4,8 @@ image = "img/portfolio/colorfabb_ngen_2.2kg.jpg"
 showonlyimage = false
 date = "2024-03-18T15:00:00Z"
 title = "colorFabb nGen"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 -   Printing temp: 220-240C

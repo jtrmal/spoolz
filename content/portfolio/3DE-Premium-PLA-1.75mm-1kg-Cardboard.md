@@ -4,6 +4,8 @@ image = "img/portfolio/3DE.Premium.PLA.1.75mm.1kg.Cardboard.jpg"
 showonlyimage = false
 date = "2025-03-03T09:31:55+0100"
 title = "3DE Premium PLA (Cardboard Spool)"
+[params]
+  spool_type = 'cardboard'
 +++
 
 -   Printing temp: 195-210C

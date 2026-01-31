@@ -4,6 +4,8 @@ image = "img/portfolio/spool_jayo_cardboard_pla.jpg"
 showonlyimage = false
 date="2024-05-02T13:37:00+0200"
 title = "Jayo PLA Cardboard spool"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 205 C – 215 C

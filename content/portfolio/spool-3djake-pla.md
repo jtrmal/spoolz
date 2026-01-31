@@ -4,6 +4,8 @@ image = "img/portfolio/3djake_pla_plastic_spool.jpg"
 showonlyimage = false
 date="2023-05-09T11:42:11+0200"
 title = "3DJake ecoPLA spool"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 195 C – 215 C

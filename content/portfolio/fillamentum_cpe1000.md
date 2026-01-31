@@ -4,6 +4,8 @@ image = "img/portfolio/fillamentum_cpe1000.jpg"
 showonlyimage = false
 date = "2024-03-20T15:45:50+0100"
 title = "Fillamentum CPE HG100"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 -   Printing temp: 255–275C

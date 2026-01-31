@@ -4,6 +4,8 @@ image = "img/portfolio/filament_pm-asa.jpg"
 showonlyimage = false
 date = "2024-01-26T15:21:21+0100"
 title = "Filament PM ASA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 240-260

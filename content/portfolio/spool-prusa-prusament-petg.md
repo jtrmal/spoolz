@@ -4,6 +4,8 @@ image = "img/portfolio/prusa_petg_blacks.jpg"
 showonlyimage = false
 date = "2024-01-26T15:18:30+0100"
 title = "PETG Prusa Galaxy Black"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 240-260C

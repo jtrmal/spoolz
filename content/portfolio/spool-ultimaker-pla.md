@@ -4,6 +4,8 @@ image = "img/portfolio/spool_ultimaker_pla.jpg"
 showonlyimage = false
 date="Mon May 24 17:23:00 EST 2023"
 title = "Ultimaker PLA"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 200 C – 220 C

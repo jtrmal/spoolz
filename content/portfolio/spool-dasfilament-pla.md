@@ -4,6 +4,8 @@ image = "img/portfolio/spool_dasfilament_pla.jpg"
 showonlyimage = false
 date="Mon Apr 01 17:08:00 EST 2024"
 title = "DasFilament PLA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 215 C

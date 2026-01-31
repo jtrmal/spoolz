@@ -4,6 +4,8 @@ image = "img/portfolio/esun_abs_plus_black_duc1.jpg"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "ESun ABS+ Black"
+[params]
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 220-260C

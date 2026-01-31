@@ -4,6 +4,8 @@ image = "img/portfolio/spool_printbed.jpg"
 showonlyimage = false
 date="2024-08-05T11:01:17+0200"
 title = "PrintBed PLA"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 210 C

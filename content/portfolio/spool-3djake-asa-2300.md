@@ -4,6 +4,8 @@ image = "img/portfolio/spool-3djake-asa-2300.jpg"
 showonlyimage = false
 date = "2025-03-04T10:49:07+0100"
 title = "3DJake ASA Black 2300g"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 210-250C

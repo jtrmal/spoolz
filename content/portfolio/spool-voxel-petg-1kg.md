@@ -4,6 +4,8 @@ image = "img/portfolio/voxel_petg_1kg.jpg"
 showonlyimage = false
 date = "2025-12-11T01:01:01Z"
 title = "Voxel PETG+"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Empty spool weight: 214g

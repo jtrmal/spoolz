@@ -4,6 +4,8 @@ image = "img/portfolio/kingroon_pla_1000g.jpg"
 showonlyimage = false
 date="2025-12-14T15:51:52+0100"
 title = "Kingroon PLA 1000g"
+[params]
+  spool_type = 'cardboard'
 +++
 
 * Printing temp: 190 C – 210 C

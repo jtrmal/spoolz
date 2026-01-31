@@ -4,6 +4,8 @@ image = "img/portfolio/spool_sunlu_pla_250g.jpg"
 showonlyimage = false
 date="2025-08-07"
 title = "Sunlu 250g PLA blue/grey molded plastic"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 200 C – 240 C

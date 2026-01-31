@@ -4,6 +4,8 @@ image = "img/portfolio/spool_sunlu_pla.jpg"
 showonlyimage = false
 date = "2024-04-23T16:27:27Z"
 title = "SUNLU PLA"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Empty spool weight: 124g

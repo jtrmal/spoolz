@@ -4,6 +4,8 @@ image = "img/portfolio/wanhao_pla_yellow_duc1.jpg"
 showonlyimage = false
 date = "2021-10-23T09:20:00Z"
 title = "Wanhao PLA Yellow"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 170-210C

@@ -4,6 +4,8 @@ image = "img/portfolio/spool_mika3d_pla_silk.jpg"
 showonlyimage = false
 date="2025-08-07"
 title = "Mika3D Silk PLA 1KG"
+[params]
+  spool_type = 'dark_plastic'
 +++
 
 * Printing temp: 200 C – 235 C
