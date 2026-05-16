@@ -8,7 +8,7 @@ title = "DevilDesign"
   spool_type = 'transparent_plastic'
 +++
 
-* Empty spool weight: 162g
+* Empty spool weight: 262g
 * Advertised filament weight: 1000g
 * Outside Diameter: 199mm
 * Hole Diameter: 53mm
