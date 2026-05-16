@@ -13,8 +13,8 @@ title = "DevilDesign"
 * Outside Diameter: 199mm
 * Hole Diameter: 53mm
 * Height: 65mm
-* Printing temp: 200-210C
-* Bed temp: 50-65C
+* Printing temp: 200-235C
+* Bed temp: 50-60C
 <!--more-->
 
 ![image](/static/img/portfolio/spool-devildesign-pla.jpg)
