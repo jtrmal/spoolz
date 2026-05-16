@@ -1,8 +1,8 @@
 +++
 draft = false
-image = "img/portfolio/spool_sunlu_pla.jpg"
+image = "static/img/portfolio/spool-devildesign-pla.jpg"
 showonlyimage = false
-date = "2024-04-23T16:27:27Z"
+date = "2026-05-16T12:35:27Z"
 title = "DevilDesign"
 [params]
   spool_type = 'transparent_plastic'
@@ -17,4 +17,4 @@ title = "DevilDesign"
 * Bed temp: 50-65C
 <!--more-->
 
-![image](/img/portfolio/spool_sunlu_pla.jpg)
+![image](/static/img/portfolio/spool-devildesign-pla.jpg)
