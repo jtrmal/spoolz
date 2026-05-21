@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "static/img/portfolio/spool-devildesign-pla.jpg"
+image = "img/portfolio/spool-devildesign-1kg-plastic.jpg"
 showonlyimage = false
 date = "2026-05-16T12:35:27Z"
 title = "DevilDesign"

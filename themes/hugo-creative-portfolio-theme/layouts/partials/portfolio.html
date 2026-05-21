@@ -23,6 +23,7 @@
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ $img := resources.Get .Params.image }}
+                        {{ if $img }}
                         {{ $optimized := $img.Fit "1100x1100 webp picture q60" }}
                         {{ if eq .Params.showonlyimage true }}
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
@@ -32,6 +33,7 @@
                             <img src="{{ $optimized.RelPermalink }}" width="{{ $optimized.Width }}" height="{{ $optimized.Height }}"
                               loading="lazy" alt="" class="img-responsive">
                         </a>
+                        {{ end }}
                       {{ end }}
                       {{ if eq .Params.showonlyimage true }}
                       <div class="box-masonry-hover-text-header">
