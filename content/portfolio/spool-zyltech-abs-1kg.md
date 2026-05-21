@@ -5,7 +5,7 @@ showonlyimage = false
 date="2026-05-21"
 title = "ZYLtech ABS 1KG"
 [params]
-  spool_type = 'transparent_plastic'
+  spool_type = 'light_plastic'
 +++
 
 * Printing temp: 240 C – 280 C

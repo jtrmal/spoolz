@@ -5,7 +5,7 @@ showonlyimage = false
 date = "2026-05-16T12:35:27Z"
 title = "DevilDesign"
 [params]
-  spool_type = 'transparent_plastic'
+  spool_type = 'light_plastic'
 +++
 
 * Empty spool weight: 262g
