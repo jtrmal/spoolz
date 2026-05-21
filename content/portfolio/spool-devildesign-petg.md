@@ -17,4 +17,4 @@ title = "DevilDesign"
 * Bed temp: 70-80C
 <!--more-->
 
-![image](/static/img/portfolio/spool-devildesign-1kg-plastic.jpg)
+![image](/img/portfolio/spool-devildesign-1kg-plastic.jpg)
