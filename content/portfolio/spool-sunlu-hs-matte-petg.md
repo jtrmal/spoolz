@@ -21,3 +21,6 @@ title = "Sunlu HS Matte PETG 1KG"
 
 ![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_1.jpg)
 ![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_2.jpg)
+![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_3.jpg)
+![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_4.jpg)
+![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_5.jpg)
