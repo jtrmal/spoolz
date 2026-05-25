@@ -15,9 +15,10 @@ title = "Sunlu HS Matte PETG 1KG"
 * Outside Diameter: 210 mm
 * Height: 66 mm
 * Hole Diameter: 54 mm
+<!--more-->
+
 * Spool temperature resistance: <70 C
 * Filament end secured with tape — no waste when finishing the spool
-<!--more-->
 
 ![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_1.jpg)
 ![image](/img/portfolio/spool_sunlu_hs_matte_petg_1kg_2.jpg)

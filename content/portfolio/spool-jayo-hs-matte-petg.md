@@ -15,8 +15,9 @@ title = "Jayo HS Matte PETG 1100g"
 * Outside Diameter: 196 mm
 * Height: 62 mm
 * Hole Diameter: 72 mm
-* Has a small nook for the filament end — may interfere with Bambu AMS
 <!--more-->
+
+* Has a small nook for the filament end — may interfere with Bambu AMS
 
 ![image](/img/portfolio/spool_jayo_hs_matte_petg_1100g.jpg)
 ![image](/img/portfolio/spool_jayo_hs_matte_petg_1100g_2.jpg)
