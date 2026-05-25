@@ -8,7 +8,7 @@ title = "Jayo HS Matte PETG 1100g"
   spool_type = 'dark_plastic'
 +++
 
-* Printing temp: 230 C – 270 C (speed dependent: 230-240 C at 50-100 mm/s, 240-255 C at 100-300 mm/s, 255-270 C at 300-600 mm/s)
+* Printing temp: 230 C – 270 C
 * Bed temp: 85 C
 * Empty spool weight: 127 g
 * Advertised filament weight: 1100 g
@@ -17,6 +17,7 @@ title = "Jayo HS Matte PETG 1100g"
 * Hole Diameter: 72 mm
 <!--more-->
 
+* Speed dependent temps: 230-240 C at 50-100 mm/s, 240-255 C at 100-300 mm/s, 255-270 C at 300-600 mm/s
 * Has a small nook for the filament end — may interfere with Bambu AMS
 
 ![image](/img/portfolio/spool_jayo_hs_matte_petg_1100g.jpg)

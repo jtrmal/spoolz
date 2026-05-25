@@ -8,7 +8,7 @@ title = "Sunlu HS Matte PETG 1KG"
   spool_type = 'dark_plastic'
 +++
 
-* Printing temp: 230 C – 270 C (speed dependent: 230-240 C at 50-100 mm/s, 240-255 C at 100-300 mm/s, 255-270 C at 300-600 mm/s)
+* Printing temp: 230 C – 270 C
 * Bed temp: 70 C – 80 C
 * Empty spool weight: 215 g (cardboard core alone: 30 g)
 * Advertised filament weight: 1000 g
@@ -17,6 +17,7 @@ title = "Sunlu HS Matte PETG 1KG"
 * Hole Diameter: 54 mm
 <!--more-->
 
+* Speed dependent temps: 230-240 C at 50-100 mm/s, 240-255 C at 100-300 mm/s, 255-270 C at 300-600 mm/s
 * Spool temperature resistance: <70 C
 * Filament end secured with tape — no waste when finishing the spool
 
