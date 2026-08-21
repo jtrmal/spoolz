@@ -1,0 +1,116 @@
+name: Spool Submission
+description: Submit dimensions and parameters for a new filament spool
+title: "<Brand> <Filament> <Weight>"
+labels: []
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Brand
+      placeholder: e.g. Sunlu, Jayo, eSUN
+    validations:
+      required: true
+
+  - type: input
+    id: filament
+    attributes:
+      label: Filament type / name
+      placeholder: e.g. PLA, PETG, HS Matte PETG
+    validations:
+      required: true
+
+  - type: input
+    id: color
+    attributes:
+      label: Color
+      placeholder: e.g. Black, Gray, Transparent
+    validations:
+      required: false
+
+  - type: input
+    id: advertised_weight
+    attributes:
+      label: Advertised filament weight (g)
+      placeholder: e.g. 1000
+    validations:
+      required: true
+
+  - type: input
+    id: empty_weight
+    attributes:
+      label: Empty spool weight (g)
+      description: Weigh the spool without filament and enter the value shown on the scale.
+      placeholder: e.g. 215
+    validations:
+      required: true
+
+  - type: dropdown
+    id: spool_type
+    attributes:
+      label: Spool type
+      options:
+        - cardboard
+        - light_plastic (light-coloured or clear/transparent)
+        - dark_plastic (dark-coloured)
+    validations:
+      required: true
+
+  - type: input
+    id: print_temp
+    attributes:
+      label: Printing temperature (°C)
+      placeholder: e.g. 200-240
+    validations:
+      required: true
+
+  - type: input
+    id: bed_temp
+    attributes:
+      label: Bed temperature (°C)
+      placeholder: e.g. 60-80
+    validations:
+      required: false
+
+  - type: input
+    id: outer_diameter
+    attributes:
+      label: Outside diameter (mm)
+      placeholder: e.g. 200
+    validations:
+      required: true
+
+  - type: input
+    id: height
+    attributes:
+      label: Height / width (mm)
+      placeholder: e.g. 67
+    validations:
+      required: true
+
+  - type: input
+    id: hole_diameter
+    attributes:
+      label: Hole diameter (mm)
+      placeholder: e.g. 54
+    validations:
+      required: true
+
+  - type: textarea
+    id: photos
+    attributes:
+      label: Photos
+      description: >
+        Please attach at least one photo of the spool and one photo of the empty spool on a scale
+        (showing the weight reading). Drag and drop images here or paste them directly.
+      placeholder: Attach photos here (drag & drop or paste)
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional notes
+      description: Anything else worth noting — AMS compatibility, special features, speed-dependent temperatures, etc.
+      placeholder: Optional
+    validations:
+      required: false
