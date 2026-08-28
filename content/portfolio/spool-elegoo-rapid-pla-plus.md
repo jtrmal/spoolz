@@ -10,7 +10,7 @@ title = "Elegoo Rapid PLA+"
 
 * Printing temp: 200-230 C
 * Bed temp: 40-60 C
-* Empty spool weight: 217 g
+* Empty spool weight: 156 g
 * Advertised filament weight: 1000 g
 * Outside Diameter: 200 mm
 * Height: 56 mm
