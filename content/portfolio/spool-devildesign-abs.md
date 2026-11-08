@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/spool-devildesign-1kg-plastic.jpg"
 showonlyimage = false
 date = "2026-05-16T12:35:27Z"
-title = "DevilDesign"
+title = "Devil Design ABS"
 [params]
   spool_type = 'light_plastic'
 +++
