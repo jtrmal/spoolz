@@ -17,5 +17,5 @@ title = "Inland PLA Basics (Black)"
 * Hole Diameter: 55mm
 <!--more-->
 
-![image](img/portfolio/inland_pla_basics_black.jpg)
+![image](/img/portfolio/inland_pla_basics_black.jpg)
 
